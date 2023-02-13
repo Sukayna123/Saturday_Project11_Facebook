@@ -12,7 +12,7 @@ public class Facebook {
         driver.manage().window().maximize();
 
         driver.get("https://www.facebook.com/");
-        
+
 
     }
 }
